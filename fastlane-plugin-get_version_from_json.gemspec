@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.author        = 'Stanislav Cherkasov'
   spec.email         = 'adm@tenhi.dev'
 
-  spec.summary       = '#FIXME - Return and check(optional) versionName from package.json for React Native projects'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-get_version_from_json"
+  spec.summary       = 'Return and check(optional) version from package.json for React Native projects'
+  spec.homepage      = "https://github.com/tenhishadow/fastlane-plugin-get_version_from_json"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
